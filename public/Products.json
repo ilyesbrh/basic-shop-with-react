@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0,
+        "title": "butter",
+        "type":"butter",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, facilis.",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HkDWMdau56plyt6fPw2x4saCjvhrXxesC_AzfLN3yA&s",
+        "stars": 8,
+        "price": 0.8
+    },
+    {
+        "id": 1,
+        "title": "Fresh swiss milk",
+        "type":"milk",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, facilis.",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HkDWMdau56plyt6fPw2x4saCjvhrXxesC_AzfLN3yA&s",
+        "stars": 3,
+        "price": 1.15
+    },
+    {
+        "id": 2,
+        "title": "whole french bread",
+        "type":"bread",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, facilis.",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HkDWMdau56plyt6fPw2x4saCjvhrXxesC_AzfLN3yA&s",
+        "stars": 2,
+        "price": 1
+    }
+]

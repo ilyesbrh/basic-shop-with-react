@@ -1,0 +1,8 @@
+.products-container {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+
+    max-width: 600px;
+    gap: 12px;
+}
